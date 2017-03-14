@@ -1,7 +1,6 @@
 import time
 import random
 
-#Note to self: in final stages of code, give it a personality. Try to learn machine learning from that udacity course, see if you can make this...smarter...
 #Perhaps have it analyze player strategy? Or make its decisions more random
 usr_score = 0
 cmp_score = 0
