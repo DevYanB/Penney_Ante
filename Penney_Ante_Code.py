@@ -47,7 +47,7 @@ while(c <= 10000):
         l.append('h')
     else:
         l.append('t')
-    print(l)
+    print(l, end="\r")
     time.sleep(1)
     if len(l) >= 3:
         n = c-3
